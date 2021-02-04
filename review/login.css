@@ -4,6 +4,8 @@ body{
   margin: 0px auto;
   float: left;
   background: #6b5b95;
+  background-position:left bottom, right bottom, center bottom;
+  background-size:auto, auto, 100%;
 }
 #heading, #login{
   width: 300px;
